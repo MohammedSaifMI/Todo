@@ -1,0 +1,51 @@
+.cont1
+{
+    text-align: center;
+    height: 20vh;
+
+
+}
+body
+{
+    background-color: #A98EDA !important;
+}
+
+.cont2
+{
+    text-align: center;
+    height: 40vh;
+
+}
+.cont2 p 
+{
+    cursor: pointer;
+    font-size:x-large;
+}
+
+.btn1
+{
+    background-color: #8052EC !important;
+    color: white !important;
+}
+
+/* Todo.css */
+
+.container {
+  margin: auto;
+}
+
+.cont1, .cont2 {
+  padding: 1rem;
+}
+
+.todo-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.todo-checkbox {
+  margin-right: 0.5rem;
+}
+
+
